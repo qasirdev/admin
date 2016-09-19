@@ -5,3 +5,9 @@ Pluralsight - AngularUI Fundamentals
 ##npm install
 2- run following command to install bower packages in folder src\lib
 ##bower install
+3- To install json-server for FAKE API - https://github.com/typicode/json-server
+##npm install -g json-server
+4- To run json-server for backend API
+##json-server --watch db.json
+5- Open another Node dos terminal and run following command to run website in localhost
+##gulp watch
