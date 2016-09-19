@@ -19,10 +19,10 @@
     "moment": "~2.8.3",
     "showdown": "~0.3.1",
     "spin.js": "~2.0.1",
+    "livereload-js": "livereload#^2.2.1",
+    "jshint": "^2.9.3",
     "csv-js": "*"
   },
   "devDependencies": {
-    "livereload-js": "livereload#^2.2.1",
-    "jshint": "^2.9.3"
   }
 }
