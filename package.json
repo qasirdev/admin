@@ -1,0 +1,26 @@
+{
+  "name": "elite-schedule-admin",
+  "version": "0.0.0",
+  "dependencies": {
+    "serve-static": "^1.7.1"
+  },
+  "scripts": {
+    "lint": "jshint src/app/app.js"
+  },
+  "devDependencies": {
+    "connect": "^2.14.4",
+    "connect-livereload": "^0.4.0",
+    "gulp": "^3.8.10",
+    "gulp-inject": "^1.0.2",
+    "gulp-jshint": "^1.9.0",
+    "gulp-livereload": "^2.1.1",
+    "gulp-load-plugins": "^0.7.1",
+    "gulp-size": "^1.1.0",
+    "jshint-stylish": "^1.0.0",
+    "json-server": "^0.8.19",
+    "opn": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
