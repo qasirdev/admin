@@ -5,7 +5,7 @@ Pluralsight - AngularUI Fundamentals
 ##npm install
 2- run following command to install bower packages in folder src\lib
 ##bower install
-3- To install json-server for FAKE API - https://github.com/typicode/json-server
+3- To install json-server for FAKE API - <a href="https://github.com/typicode/json-server" target="_blank">json-server</a>
 ##npm install -g json-server
 4- To run json-server for backend API
 ##json-server --watch db.json
