@@ -1,5 +1,6 @@
 # admin sample project
 Based on AngularUI with Fake API
+![image](https://github.com/qasirdev/admin/blob/master/home.jpg)
 ##To run this sample project use following steps
 1 - go to clone folder and run command 
 ##npm install
